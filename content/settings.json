@@ -2,28 +2,27 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
+    "title": "Stephan Geyer",
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
+    "author": "Stephan Geyer",
     "avatar": "../content/images/gatsby.png",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
     "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "linkedin": "https://www.linkedin.com/in/stephan-geyer",
+      "github": "https://github.com/stephan2311",
+      "mail": "mailto:mail@stephan-geyer.com"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "SG" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Work", "url": "/#work" },
+        { "label": "Tech Stack", "url": "/#techstack" },
+        { "label": "Projects", "url": "/#projects" },
+        { "label": "Contact", "url": "/#contact" }
       ],
       "ctaButton": {
         "openNewTab": true,

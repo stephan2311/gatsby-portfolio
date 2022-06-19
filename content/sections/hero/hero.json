@@ -1,18 +1,17 @@
 {
-  "intro": "Hej",
+  "intro": "Hi Folks",
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "I'm Stephan Geyer",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
+    "highlight": "Junior Full Stack Developer",
+    "suffix": ", Operations and Finance Specialist and Co-Founder"
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "Having graduated with a Masters in Transport Economics (M.Sc.) from the Technical University Dresden in 2015, I have several years professional experience and a deep understanding of business functions, processes and technologies. I have recently completed an intensive web development course during which time I discovered my passion for coding.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": false
   }
 }

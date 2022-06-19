@@ -4,10 +4,10 @@ sectionId: imprint
 
 #### Information pursuant to § 5 TMG
 
-YOURNAME<br />
-YOURSTREET<br />
-YOURCITY<br />
-YOURCOUNTRY
+Stephan Geyer<br />
+August-Bebel-Str. 16<br />
+06772 Graefenhainichen<br />
+GERMANY
 
 E-Mail Address: <u>YOURMAIL@DOMAIN.COM</u>
 

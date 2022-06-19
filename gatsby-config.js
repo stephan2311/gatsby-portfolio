@@ -25,5 +25,7 @@ module.exports = {
         // }
       },
     },
+    `gatsby-remark-line-breaks`,
+    `gatsby-plugin-react-leaflet`,
   ],
 };
